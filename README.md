@@ -22,6 +22,9 @@
    
    [ICNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/icnet.py)(테스트 예정)
 
+![image](https://user-images.githubusercontent.com/52908154/79126562-2a58e480-7ddb-11ea-90ee-0488cffe1ad2.png)
+
+
 * ### 학습 환경 
 
   * Dataset - [AI Hub](http://www.aihub.or.kr/) 인도 보행 영상
