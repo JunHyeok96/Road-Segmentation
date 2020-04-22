@@ -3,8 +3,8 @@
 
 ![ezgif com-optimize (4)](https://user-images.githubusercontent.com/52908154/79999901-73094f80-84f7-11ea-8700-f9777b42c9ad.gif)
 ![ezgif com-resize (8)](https://user-images.githubusercontent.com/52908154/79999576-0c843180-84f7-11ea-8384-779fe2144cae.gif)
+![ezgif com-optimize (5)](https://user-images.githubusercontent.com/52908154/80000480-26724400-84f8-11ea-85f8-b9a9cf5b9215.gif)
 
-![ezgif com-optimize (4)](https://user-images.githubusercontent.com/52908154/80000291-ec08a700-84f7-11ea-951f-a6f2181db066.gif)
 
 
 
