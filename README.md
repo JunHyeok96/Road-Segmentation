@@ -6,30 +6,32 @@
 
 
 
-* ### 개발 환경
+* ### Development environment
+
 
   ubuntu 18.0.4, tensorflow 2.0.0, opencv-python 4.2.0.32, numpy 1.18.2
 
-* ### 구현 모델 
+* ### model
 
-  [FCN](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/fcn.py)(테스트 x)
+
+  [FCN](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/fcn.py)(test x)
   
-  [UNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/unet.py) (테스트 완료)
+  [UNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/unet.py) (Test complete)
   
-   [PSPNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/pspnet.py)(수정 필요)
+   [PSPNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/pspnet.py)(Modification Required)
    
-   [PSPUNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/pspunet.py)(PSPNet + Unet, 테스트 완료) 
+   [PSPUNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/pspunet.py)(PSPNet + Unet, Test complete) 
    
-   [ICNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/icnet.py)(테스트 예정)
+   [ICNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/icnet.py)(Test complete)
 
 ![image](https://user-images.githubusercontent.com/52908154/79126562-2a58e480-7ddb-11ea-90ee-0488cffe1ad2.png)
 
 
-* ### 학습 환경 
+* ### Learning environment
 
-  * Dataset - [AI Hub](http://www.aihub.or.kr/) 인도 보행 영상
+  * Dataset - [AI Hub](http://www.aihub.or.kr/) sidewalk walking image
 
-  * train data : 38000장, val data : 12800장
+  * train data : 38000, val data : 12800
 
   * IMG_WIDTH = 480
 
@@ -53,10 +55,10 @@
 |Roadway|5|
 |Sidewalk|6|
 
-[상세분류](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/data_loader/data_loader.py)
+[detail](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/data_loader/data_loader.py)
 
 * ### Quick start 
-  pretraining된 pspunet loss 0.3160 mIoU 74.5% acc 90.2% model weight를 제공합니다.
+I provide a pretraining model weight. (pspunet loss 0.3160 mIoU 74.5% acc 90.2%)
 
 ```
 git clone https://github.com/seraaaayeo/SellyDev.git
@@ -72,7 +74,8 @@ python3 demo.py
 
 <img width="527" alt="unet_0 35704005_acc89 1" src="https://user-images.githubusercontent.com/52908154/79119959-97b14900-7dcc-11ea-98e0-f651eb9ba7d2.png">
 
-* ### 성능 평가
+* ### performance evaluation
+
 
   TEST GPU - RTX2060 SUPER
 
