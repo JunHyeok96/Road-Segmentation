@@ -24,7 +24,7 @@
    
    [PSPUNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/pspunet.py)(PSPNet + Unet, Test complete) 
    
-   [ICNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/icnet.py)(Test complete)
+   [ICNet](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/model/icnet.py)(Modification Required)
 
 ![image](https://user-images.githubusercontent.com/52908154/79126562-2a58e480-7ddb-11ea-90ee-0488cffe1ad2.png)
 
