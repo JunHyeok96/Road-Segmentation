@@ -11,7 +11,7 @@
 * ### Development environment
 
 
-  ubuntu 18.0.4, tensorflow 2.0.0, opencv-python 4.2.0.32, numpy 1.18.2
+  ubuntu 18.04, tensorflow 2.0.0, opencv-python 4.2.0.32, numpy 1.18.2
 
 * ### model
 
