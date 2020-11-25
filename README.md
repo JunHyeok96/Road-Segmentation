@@ -57,13 +57,13 @@
 |Roadway|5|
 |Sidewalk|6|
 
-[detail](https://github.com/seraaaayeo/SellyDev/blob/road_segmentation/data_loader/data_loader.py)
+[detail](https://github.com/JunHyeok96/Road-Segmentation/blob/master/data_loader/data_loader.py)
 
 * ### Quick start 
 I provide a pretraining model weight. (pspunet loss 0.3160 mIoU 74.5% acc 90.2%)
 
 ```
-git clone https://github.com/seraaaayeo/SellyDev.git
+git clone https://github.com/JunHyeok96/Road-Segmentation.git
 cd road_segmentation
 python3 demo.py 
 ```
