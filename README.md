@@ -65,7 +65,7 @@ I provide a pretraining model weight. (pspunet loss 0.3160 mIoU 74.5% acc 90.2%)
 ```
 git clone https://github.com/JunHyeok96/Road-Segmentation.git
 cd road_segmentation
-python3 demo.py 
+python3 demo.py #before run command, you have to set your test video path in demo.py 
 ```
 
 #### PSPUnet 
